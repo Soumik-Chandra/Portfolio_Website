@@ -1,16 +1,17 @@
 # Covid 19 Power BI Dashboard
 
 **Dataset:** www.ourworldindata.org
+
 The data is updated till 22nd of August 2021.
 
 **Created a dahsboard followed steps as below:**
-Extract Data
-Transform Data
-Load Data
-Writing DAX
-Report Building
-Publish Report
-Dashboard Creation
+* Extract Data
+* Transform Data
+* Load Data
+* Writing DAX
+* Report Building
+* Publish Report
+* Dashboard Creation
 
 **Aim:** 
 To get insights about covid cases and deaths globally, covid vaccination gloablly & Covid Cases and Vaccination in India and create an interactive Dashboard from it.
