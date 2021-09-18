@@ -27,19 +27,18 @@ In Order to do so I have divided the dashboard in three section namely Global, V
 ![](https://github.com/Soumik-Chandra/Portfolio_Website/blob/main/Covid-19/Screenshot%20(29).png)
 
 **Vaccination:** 
-1) I found out the total population globally, out of them how many have received vaccination and haow many are fully vaccinated
-2) Analyzed fully Vaccination Continent Wise & arranged it in decreasing order
-3) Found out the top 10 countries where the percentage of people are fully vaccinated
-4) Found out the bottom 10 countries where the percentage of people are fully vaccinated
-5) Found out top 5 countries delivering 2 Doses of Vaccination.
-6) Found out top 5 countries delivering 1st Dose of Vaccination.
+1) Extracted the total number of global vaccinations and fully vaccinated people out of the total population.
+2) Analyzed total number of fully Vaccinated people Continent Wise.
+3) Found out the top and bottom 10 countries in terms of percentage of fully vaccinated people.
+4) Found out top 5 countries in terms of number of fully vaccinated people.
+5) Found out top 5 countries in terms of number of people who received 1st Dose of Vaccination.
 ![](https://github.com/Soumik-Chandra/Portfolio_Website/blob/main/Covid-19/Screenshot%20(30).png)
 ![](https://github.com/Soumik-Chandra/Portfolio_Website/blob/main/Covid-19/Screenshot%20(31).png)
 
 **About India:**
-1) I have found out the total population, total cases, total Deaths, Death Rate anf Fully vaccination percentage for India.
-2) I have found out the total cases and total deaths for the year 2020 and 2021 seperately. 
-3) I have found out the total vaccination done till 22nd of August 2021 and out of them how many are fully vaccinated and how many have received 1st Dose of vaccination.
+1) Found out the total population, total cases, total Deaths, Death Rate anf Fully vaccination percentage for India from the data.
+2) Extracted the total cases and total deaths for the year 2020 and 2021 seperately. 
+3) Also found the total vaccination done till 22nd of August 2021 and out of them how many are fully vaccinated and how many have received 1st Dose of vaccination.
 4) Forecasted the cases and deaths for the next 1 year.
 ![](https://github.com/Soumik-Chandra/Portfolio_Website/blob/main/Covid-19/Screenshot%20(32).png)
 ![](https://github.com/Soumik-Chandra/Portfolio_Website/blob/main/Covid-19/Screenshot%20(33).png)
