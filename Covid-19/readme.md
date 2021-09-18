@@ -14,7 +14,7 @@ Dashboard Creation
 
 **Aim:** 
 To get insights about covid cases and deaths globally, covid vaccination gloablly & Covid Cases and Vaccination in India and create an interactive Dashboard from it.
-In Order to do so I have divide the dashboard in three section namely Global, Vaccination And About India.
+In Order to do so I have divided the dashboard in three section namely Global, Vaccination And About India.
 
 **Global:**
 1) I analyzed total cases, total deaths and death rate globally.
@@ -22,7 +22,7 @@ In Order to do so I have divide the dashboard in three section namely Global, Va
 3) Found out the death cases continent wise
 4) Found total cases, total deaths and death rate for each of the country present in the dataset.
 5) Forecasted the cases and deaths for the next 1 year.
-![]
+![](https://github.com/Soumik-Chandra/Portfolio_Website/blob/main/Covid-19/Screenshot%20(28).png)
 
 **Vaccination:** 
 1) I found out the total population globally, out of them how many have received vaccination and haow many are fully vaccinated
