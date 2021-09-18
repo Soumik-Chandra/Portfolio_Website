@@ -23,6 +23,7 @@ In Order to do so I have divided the dashboard in three section namely Global, V
 4) Found total cases, total deaths and death rate for each of the country present in the dataset.
 5) Forecasted the cases and deaths for the next 1 year.
 ![](https://github.com/Soumik-Chandra/Portfolio_Website/blob/main/Covid-19/Screenshot%20(28).png)
+![](https://github.com/Soumik-Chandra/Portfolio_Website/blob/main/Covid-19/Screenshot%20(29).png)
 
 **Vaccination:** 
 1) I found out the total population globally, out of them how many have received vaccination and haow many are fully vaccinated
@@ -31,12 +32,16 @@ In Order to do so I have divided the dashboard in three section namely Global, V
 4) Found out the bottom 10 countries where the percentage of people are fully vaccinated
 5) Found out top 5 countries delivering 2 Doses of Vaccination.
 6) Found out top 5 countries delivering 1st Dose of Vaccination.
+![](https://github.com/Soumik-Chandra/Portfolio_Website/blob/main/Covid-19/Screenshot%20(30).png)
+![](https://github.com/Soumik-Chandra/Portfolio_Website/blob/main/Covid-19/Screenshot%20(31).png)
 
 **About India:**
 1) I have found out the total population, total cases, total Deaths, Death Rate anf Fully vaccination percentage for India.
 2) I have found out the total cases and total deaths for the year 2020 and 2021 seperately. 
 3) I have found out the total vaccination done till 22nd of August 2021 and out of them how many are fully vaccinated and how many have received 1st Dose of vaccination.
 4) Forecasted the cases and deaths for the next 1 year.
+![](https://github.com/Soumik-Chandra/Portfolio_Website/blob/main/Covid-19/Screenshot%20(32).png)
+![](https://github.com/Soumik-Chandra/Portfolio_Website/blob/main/Covid-19/Screenshot%20(33).png)
 
 
 Check out the Power BI dashboard [here](https://app.powerbi.com/reportEmbed?reportId=bff15cf5-88cc-4be5-af93-c2a1ff93eb84&autoAuth=true&ctid=ecd9255a-42d5-410c-8574-5c26d93dfca9&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWluZGlhLWNlbnRyYWwtYS1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9)
