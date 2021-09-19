@@ -1,12 +1,12 @@
 # Covid 19 Power BI Dashboard
 
+**Aim:** 
+To get insights about covid cases and deaths globally, covid vaccination gloablly & Covid Cases and Vaccination in India and create an interactive Dashboard from it.
+In Order to do so I have divided the dashboard in three section namely Global, Vaccination And About India.
+
 **Dataset:** www.ourworldindata.org
 
-Check out the Power BI dashboard [here](https://app.powerbi.com/reportEmbed?reportId=bff15cf5-88cc-4be5-af93-c2a1ff93eb84&autoAuth=true&ctid=ecd9255a-42d5-410c-8574-5c26d93dfca9&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWluZGlhLWNlbnRyYWwtYS1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9)
-
-The data is updated till 22nd of August 2021.
-
-**Created a dahsboard followed steps as below:**
+**Created a dahsboard by following the below steps:**
 * Extract Data
 * Transform Data
 * Load Data
@@ -15,9 +15,11 @@ The data is updated till 22nd of August 2021.
 * Publish Report
 * Dashboard Creation
 
-**Aim:** 
-To get insights about covid cases and deaths globally, covid vaccination gloablly & Covid Cases and Vaccination in India and create an interactive Dashboard from it.
-In Order to do so I have divided the dashboard in three section namely Global, Vaccination And About India.
+Check out the Full Power BI dashboard [here](https://app.powerbi.com/reportEmbed?reportId=bff15cf5-88cc-4be5-af93-c2a1ff93eb84&autoAuth=true&ctid=ecd9255a-42d5-410c-8574-5c26d93dfca9&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWluZGlhLWNlbnRyYWwtYS1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9)
+
+The data is updated till 22nd of August 2021.
+
+Summary of Analysis for the three sections Global, Vaccination And About India is given below:
 
 **Global:**
 1) I analyzed total cases, total deaths and death rate globally.
