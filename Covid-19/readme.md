@@ -2,6 +2,8 @@
 
 **Dataset:** www.ourworldindata.org
 
+Check out the Power BI dashboard [here](https://app.powerbi.com/reportEmbed?reportId=bff15cf5-88cc-4be5-af93-c2a1ff93eb84&autoAuth=true&ctid=ecd9255a-42d5-410c-8574-5c26d93dfca9&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWluZGlhLWNlbnRyYWwtYS1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9)
+
 The data is updated till 22nd of August 2021.
 
 **Created a dahsboard followed steps as below:**
@@ -44,5 +46,5 @@ In Order to do so I have divided the dashboard in three section namely Global, V
 ![](https://github.com/Soumik-Chandra/Portfolio_Website/blob/main/Covid-19/Screenshot%20(33).png)
 
 
-Check out the Power BI dashboard [here](https://app.powerbi.com/reportEmbed?reportId=bff15cf5-88cc-4be5-af93-c2a1ff93eb84&autoAuth=true&ctid=ecd9255a-42d5-410c-8574-5c26d93dfca9&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWluZGlhLWNlbnRyYWwtYS1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9)
+
 
