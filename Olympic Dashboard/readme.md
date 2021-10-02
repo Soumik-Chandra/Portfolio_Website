@@ -1,7 +1,7 @@
 # Olympic Dashboard in PowerBI
 
 **Aim:**
-To create a dashboard which will give all the information regarding the history of olympics till 2016 Rio Olympics.
+To create a dashboard which will give summarized information regarding the history of olympics till 2016 Rio Olympics.
 
 **Dataset:** www.Kaggle.com
 The data available is from 1896 to 2016.
