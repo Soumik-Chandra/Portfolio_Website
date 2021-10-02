@@ -6,7 +6,7 @@ To create a dashboard which will give summarized information regarding the histo
 **Dataset:** www.Kaggle.com
 The data available is from 1896 to 2016.
 
-Link to the dashboard is [here] (https://app.powerbi.com/links/Az6lwl70QQ?ctid=ecd9255a-42d5-410c-8574-5c26d93dfca9&pbi_source=linkShare) 
+Link to the dashboard is [here](https://app.powerbi.com/links/Az6lwl70QQ?ctid=ecd9255a-42d5-410c-8574-5c26d93dfca9&pbi_source=linkShare) 
 
 **Dashboard Summary:**
 * Created a 1 page dashboard which will show all the information related to the medals till 2016.
