@@ -4,7 +4,7 @@
 To create a dashboard which will give summarized information regarding the history of olympics till 2016 Rio Olympics.
 
 **Dataset:** www.Kaggle.com
-The data available is from 1896 to 2016.
+* The data available is from 1896 to 2016.
 
 Link to the dashboard is [here](https://app.powerbi.com/links/Az6lwl70QQ?ctid=ecd9255a-42d5-410c-8574-5c26d93dfca9&pbi_source=linkShare) 
 
