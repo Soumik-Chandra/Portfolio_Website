@@ -16,6 +16,8 @@ Provided by Leonardo Karpinski in his PowerBI Week event.
 * Publish Report
 * Dashboard Creation
 
+To check out the PowerBI Dashboard click [here](https://app.powerbi.com/links/WY4ShP3u8_?ctid=ecd9255a-42d5-410c-8574-5c26d93dfca9&pbi_source=linkShare)
+
 **Summary of the full Dashboard is given below:** 
 
 **Home Page:** 
