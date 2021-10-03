@@ -8,6 +8,15 @@ To create a dashboard which will give summarized information regarding the histo
 
 Link to the PowerBI Dashboard is [here](https://app.powerbi.com/links/Az6lwl70QQ?ctid=ecd9255a-42d5-410c-8574-5c26d93dfca9&pbi_source=linkShare) 
 
+**Created a dahsboard by following the below steps:**
+* Extract Data
+* Transform Data
+* Load Data
+* Writing DAX
+* Report Building
+* Publish Report
+* Dashboard Creation
+
 **Dashboard Summary:**
 * Created a 1 page dashboard which will show all the information related to the medals till 2016.
 * The dashboard tells us about the youngest medalist and the game which he/she played and their age.
