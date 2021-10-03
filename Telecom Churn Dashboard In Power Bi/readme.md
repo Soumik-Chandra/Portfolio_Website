@@ -11,7 +11,7 @@ To see the dashboard click [here](https://app.powerbi.com/links/WXLY49ODbE?ctid=
 **Summary Of Dashboard:**
 
 **Home Page:**
-To find the features of the customer who have churned I have divided the data into 3 segments based on Demography, by services opted by the customer, by payment methods of the customer.
+1) To find the features of the customer who have churned I have divided the data into 3 segments based on Demography, by services opted by the customer, by payment methods of the customer.
 
 ![](https://github.com/Soumik-Chandra/Portfolio_Website/blob/main/Telecom%20Churn%20Dashboard%20In%20Power%20Bi/image_2021-10-03_190051.png) 
 
@@ -26,7 +26,7 @@ To find the features of the customer who have churned I have divided the data in
 
 **By Services Opted:**
 1) I have tried to show the difference between churned customer phone service detail and Loyal customer phone service detail.
-2) Also showed the difference between Churned customer and loyal customer interms of Device Protection,Internet Service Details,Contract Details,Online Backup Services.
+2) Also showed the difference between Churned customer and loyal customer in terms of Device Protection,Internet Service Details,Contract Details and Online Backup Services.
 
 ![](https://github.com/Soumik-Chandra/Portfolio_Website/blob/main/Telecom%20Churn%20Dashboard%20In%20Power%20Bi/Screenshot%20(38).png)
 ![](https://github.com/Soumik-Chandra/Portfolio_Website/blob/main/Telecom%20Churn%20Dashboard%20In%20Power%20Bi/Screenshot%20(39).png)
@@ -35,7 +35,7 @@ To find the features of the customer who have churned I have divided the data in
 ![](https://github.com/Soumik-Chandra/Portfolio_Website/blob/main/Telecom%20Churn%20Dashboard%20In%20Power%20Bi/Screenshot%20(42).png)
 
 **By Payment Method:**
-1)I have shown the difference between churned customer and loyal customer interms of monthly average charges,Payment method details,Paperless Billing. 
+1) I have shown the difference between churned customer and loyal customer in terms of monthly average charges,Payment method details and Paperless Billing. 
 
 ![](https://github.com/Soumik-Chandra/Portfolio_Website/blob/main/Telecom%20Churn%20Dashboard%20In%20Power%20Bi/Screenshot%20(43).png)
 ![](https://github.com/Soumik-Chandra/Portfolio_Website/blob/main/Telecom%20Churn%20Dashboard%20In%20Power%20Bi/Screenshot%20(44).png)
