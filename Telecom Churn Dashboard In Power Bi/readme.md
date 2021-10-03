@@ -8,6 +8,15 @@ www.kaggle.com
 
 To see the dashboard click [here](https://app.powerbi.com/links/WXLY49ODbE?ctid=ecd9255a-42d5-410c-8574-5c26d93dfca9&pbi_source=linkShare)
 
+**Created a dahsboard by following the below steps:**
+* Extract Data
+* Transform Data
+* Load Data
+* Writing DAX
+* Report Building
+* Publish Report
+* Dashboard Creation
+
 **Summary Of Dashboard:**
 
 **Home Page:**
