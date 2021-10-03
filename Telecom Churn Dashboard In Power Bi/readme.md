@@ -11,7 +11,7 @@ To see the dashboard click [here](https://app.powerbi.com/links/WXLY49ODbE?ctid=
 **Summary Of Dashboard:**
 
 **Home Page:**
-* To find the features of the customer who have churned I have divided the data into 3 segments based on Demography, by services opted by the customer, by payment methods of the customer.
+* To find the features of the customer who have churned I have divided the data into 3 segments based on Demography, by services opted by the customer and by payment methods of the customer.
 
 ![](https://github.com/Soumik-Chandra/Portfolio_Website/blob/main/Telecom%20Churn%20Dashboard%20In%20Power%20Bi/image_2021-10-03_190051.png) 
 
