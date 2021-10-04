@@ -6,7 +6,7 @@ To find out the features of the Customers who have churned.
 **Dataset:**
 www.kaggle.com
 
-To see the dashboard click [here](https://app.powerbi.com/links/WXLY49ODbE?ctid=ecd9255a-42d5-410c-8574-5c26d93dfca9&pbi_source=linkShare)
+To see the dashboard click [here](https://app.powerbi.com/view?r=eyJrIjoiMzliODU4MTEtZDc5Yi00N2VlLThjNzMtZjRlMjNhYmZlMTI1IiwidCI6ImVjZDkyNTVhLTQyZDUtNDEwYy04NTc0LTVjMjZkOTNkZmNhOSJ9&pageName=ReportSection74aaaec05f26837f7098)
 
 **Created a dahsboard by following the below steps:**
 * Extract Data
