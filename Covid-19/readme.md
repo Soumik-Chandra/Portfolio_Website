@@ -17,8 +17,10 @@ In Order to do so I have divided the dashboard in three section namely Global, V
 
 Check out the Full Power BI dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiZTM4OTBjNWUtZDM4Yi00MDcxLTgzMjktNWMzNTdmODRmMThiIiwidCI6ImVjZDkyNTVhLTQyZDUtNDEwYy04NTc0LTVjMjZkOTNkZmNhOSJ9)
 
-[Note: All the 3 pages of the dashboard contains gif files in order to view the gif files dynamically please write--browser_name://flags/]
-(e.g.- chrome://flags/)
+**Note:** All the 3 pages of the dashboard contains gif background which is dynamic. In order to view the dynamic background please do the following settings in your browser: **browser_name://flags/**  (e.g.- chrome://flags/)
+
+**GPU rasterization** will be **default**. Please change it to "**Disable**" and restart your browser. Then the gif back ground will be dynamic.
+Please see the [PowerBI community link](https://community.powerbi.com/t5/Desktop/GIF-not-working-once-report-is-published/td-p/2088013) for further details
 
 The data is updated till 22nd of August 2021.
 
