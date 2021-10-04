@@ -15,7 +15,10 @@ In Order to do so I have divided the dashboard in three section namely Global, V
 * Publish Report
 * Dashboard Creation
 
-Check out the Full Power BI dashboard [here](https://app.powerbi.com/links/bray3W7WPT?ctid=ecd9255a-42d5-410c-8574-5c26d93dfca9&pbi_source=linkShare)
+Check out the Full Power BI dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiZTM4OTBjNWUtZDM4Yi00MDcxLTgzMjktNWMzNTdmODRmMThiIiwidCI6ImVjZDkyNTVhLTQyZDUtNDEwYy04NTc0LTVjMjZkOTNkZmNhOSJ9)
+
+[Note: All the 3 pages of the dashboard contains gif files in order to view the gif files dynamically please write--browser_name://flags/]
+(e.g.- chrome://flags/)
 
 The data is updated till 22nd of August 2021.
 
