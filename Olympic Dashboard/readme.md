@@ -6,7 +6,7 @@ To create a dashboard which will give summarized information regarding the histo
 **Dataset:** www.Kaggle.com
 * The data available is from 1896 to 2016.
 
-Link to the PowerBI Dashboard is [here](https://app.powerbi.com/links/Az6lwl70QQ?ctid=ecd9255a-42d5-410c-8574-5c26d93dfca9&pbi_source=linkShare) 
+Link to the PowerBI Dashboard is [here](https://app.powerbi.com/view?r=eyJrIjoiMDk0Yzk1ZDItMGIxYi00YmNlLTljZDAtNDBiNmI5OTc0ZmU3IiwidCI6ImVjZDkyNTVhLTQyZDUtNDEwYy04NTc0LTVjMjZkOTNkZmNhOSJ9) 
 
 **Created a dahsboard by following the below steps:**
 * Extract Data
